@@ -1,0 +1,20 @@
+.logo {
+  height: 80px;
+  margin-top: 20px;
+}
+
+.subtitle {
+  font-style: italic;
+  font-size: x-large;
+  color: coral;
+}
+
+.featuredHouse {
+  border-radius: 2px;
+  background-color: rgb(255, 190, 166);
+}
+
+span#search-text {
+  display: inline-block;
+  vertical-align: middle;
+}

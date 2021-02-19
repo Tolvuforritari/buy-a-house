@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "address": "Val des Rois 12, Genève",
+        "country": "Schweiz",
+        "description": "En fantastisk fristående viktoriansk fastighet på en av stadens finaste vägar, inom bekvämt räckhåll från Ville Barne. Fastigheten är på mer än 6 000 kvm boende, en uppfart och anlagd trädgård.",
+        "price": 900000,
+        "photo": "277667"
+    },
+    {
+        "id": 2,
+        "address": "Schlüsselstraße 89, Bern",
+        "country": "Schweiz",
+        "description": "Detta storslagna familjehus, byggt 1840, har bevarat alla ursprungliga tidstypiska detaljer och ligger skyddat en bit från vägen med parkering på gatan, för upp till sex bilar. Det har också ett s.k. vagnslider i original, som har införlivats i huvudbyggnaden för att ge ytterligare boyta. ",
+        "price": 500000,
+        "photo": "462358"
+    },
+    {
+        "id": 3,
+        "address": "Grote Hof 12, Amsterdam",
+        "country": "Nederländerna",
+        "description": "Detta hus har designats och byggts till en ypperlig standard med ett lyxigt och elegant vardagsrum. Boendet är uppdelat på fyra våningar med en stor hall, vardagsrum med höga skjutfönster, matsal, arbetsrum och toalett på bottenvåningen.",
+        "price": 200500,
+        "photo": "259600"
+    },
+    {
+        "id": 4,
+        "address": "Meel Kade 321, Haag",
+        "country": "Nederländerna",
+        "description": "Ett unikt hus, diskret beläget, med två våningar. Drömläge på hörnet av Krom Road och Recht Weeg som ger avskildhet och integritet. Huset har ett magnifikt mottagningsrum med dubbelhöjd och dörrar som leder direkt ut till en charmig innergård." ,
+        "price": 259500,
+        "photo": "534182"
+    },
+    {
+        "id": 5,
+        "address": "Oude Gracht 32, Utrecht",
+        "country": "Nederländerna",
+        "description": "Denna lyxiga lägenhet med tre sovrum är modern och har ett eget gym och en reserverad parkeringsplats under markplan.",
+        "price": 400500,
+        "photo": "164558"
+    }
+]
